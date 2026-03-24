@@ -74,3 +74,6 @@ Fully responsive and tested across:
 
 ---
 *Project Status: ✅ Complete and Production Ready (February 2026)*
+
+## 👨‍💻 Developer
+**Chethan s** ([@chethucs7](https://github.com/chethucs7))
